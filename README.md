@@ -1,2 +1,2 @@
-# Wolff
+# Wolff's Algorithm
 Wolff's Algorithm
